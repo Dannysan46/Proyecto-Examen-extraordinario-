@@ -1,7 +1,7 @@
 ﻿/*---------------------------------------------------------*/
 /* ----------------  Proyecto Examen extraordinario               -----------*/
 /*-----------------    2024-1   ---------------------------*/
-/*-- Barrionuevo Pérez Daniel Alejandro	No. de cuenta: 316303116	Grupo:03 --*/
+/*-- Barrionuevo Pérez Daniel Alejandro	No. de cuenta: 316303116 --*/
 #include <Windows.h>
 
 #include <glad/glad.h>
